@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanchoouss/server.git"
+  },
+  "author": "tea mohster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanchoouss/server/issues"
+  },
+  "homepage": "https://github.com/sanchoouss/server#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
